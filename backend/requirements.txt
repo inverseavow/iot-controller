@@ -1,0 +1,11 @@
+paho-mqtt
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pyjwt
+passlib
+bcrypt
+sqlalchemy
+psycopg2-binary
+python-multipart
